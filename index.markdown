@@ -11,4 +11,4 @@ I am a member of the INRIA team [ARGO](https://www.di.ens.fr/argo/), located at 
 My office number is B119.
 
 
-You can find more information about me on [my resume]()
+You can find more information about me on my resume
