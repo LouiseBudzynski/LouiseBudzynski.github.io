@@ -28,7 +28,7 @@ url: https://louisebudzynski.github.io/ # the base hostname & protocol for your 
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-scholar
 plugins:
   - jekyll-feed
 
