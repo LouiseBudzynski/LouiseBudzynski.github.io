@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /About/
 ---
-**About me**
 
 Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France.
 
