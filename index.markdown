@@ -6,6 +6,8 @@ layout: home
 ---
 **About me**
 
+![photo](/least-github-pages/assets/photo.jpg)
+
 Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France.
 
 I am a member of the INRIA team [ARGO](https://www.di.ens.fr/argo/).
