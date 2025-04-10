@@ -10,6 +10,6 @@ Since September 2024, I am an Associate Professor (Maître de Conférence) at th
 
 I am a member of the INRIA team [ARGO](https://www.di.ens.fr/argo/).
 
-You can find more information about me on [my resume](louisebudzynski.github.io/docs/CV.pdf)
+You can find more information about me on [my resume](<a href="louisebudzynski.github.io/docs/CV.pdf" target="_blank">PDF.</a>)
 
 **Research interests**
