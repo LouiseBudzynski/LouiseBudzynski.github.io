@@ -12,4 +12,4 @@ I am a member of the INRIA team [ARGO](https://www.di.ens.fr/argo/).
 
 You can find more information about me on (<a href="https://louisebudzynski.github.io/docs/CV.pdf" target="_blank">my resume.</a>)
 
-**Research interests**
+
