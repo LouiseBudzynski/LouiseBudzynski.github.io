@@ -6,7 +6,7 @@ layout: home
 ---
 **About me**
 
-![photo](/least-github-pages/assets/photo.jpg)
+![photo](https://louisebudzynski.github.io/docs/assets/photo.jpg)
 
 Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France.
 
