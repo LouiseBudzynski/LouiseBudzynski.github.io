@@ -4,7 +4,7 @@ title: Contact
 permalink: /Contact/
 ---
 
-I am located at the Inria Paris Center, 48 Rue Barrault, 75013 Paris.
+I am located at the [Inria Paris Center](https://www.inria.fr/en/inria-paris-centre), 48 Rue Barrault, 75013 Paris.
 
 My office number is B119.
 
