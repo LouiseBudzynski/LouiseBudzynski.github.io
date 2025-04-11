@@ -50,3 +50,12 @@ My PhD thesis is available <a href="https://louisebudzynski.github.io/docs/PhDTh
 * E Granet, L Budzynski, J Dubail, JL Jacobsen.  
   **Inhomogeneous Gaussian free field inside the interacting arctic curve**  
   _Journal of Statistical Mechanics: Theory and Experiment 2019 (1), 013102  ([J.Stat.Mech](https://iopscience.iop.org/article/10.1088/1742-5468/aaf71b/meta), [arXiv](https://arxiv.org/abs/1807.07927))_
+
+<footer class="custom-footer">
+  <p><span style="font-weight: 310;">  </span></p>
+</footer>
+<style>
+  footer:not(.custom-footer) {
+    display: none;
+  }
+</style>
