@@ -15,23 +15,23 @@ My PhD thesis is available <a href="https://louisebudzynski.github.io/docs/PhDTh
 ### Publications and preprints
 ([google scholar](https://scholar.google.fr/citations?user=QQtOq2EAAAAJ&hl=fr), [arXiv](https://arxiv.org/search/cond-mat?searchtype=author&query=Budzynski,+L))
 
-* A Braunstein, L Budzynski, M Mariani, F Ricci-Tersenghi.
+* A Braunstein, L Budzynski, M Mariani, F Ricci-Tersenghi.  
   **Evidence of Replica Symmetry Breaking under the Nishimori conditions in epidemic inference on graphs**  
   _arXiv preprint [arXiv:2502.13249](https://arxiv.org/abs/2502.13249)_
   
-* A Braunstein, L Budzynski, M Mariani.
+* A Braunstein, L Budzynski, M Mariani.  
   **Statistical mechanics of inference in epidemic spreading**  
   _Physical Review E 108 (6), 064302  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064302), [arXiv](https://arxiv.org/abs/2304.06538))_
   
-* L Budzynski, A Pagnani.
+* L Budzynski, A Pagnani.  
   **Small-coupling expansion for multiple sequence alignment**  
   _Physical Review E 107 (4), 044125  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.044125),[arXiv](https://arxiv.org/abs/2210.03463))_
   
-* A Braunstein, L Budzynski, S Crotti, F Ricci-Tersenghi
+* A Braunstein, L Budzynski, S Crotti, F Ricci-Tersenghi.  
   **Closest-vector problem and the zero-temperature p-spin landscape for lossy compression**
   _Physical Review E 106 (5), 054101  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054101),[arXiv](https://arxiv.org/abs/2207.00504))_
   
-* L Budzynski, G Semerjian
+* L Budzynski, G Semerjian.  
   **Biased measures for random constraint satisfaction problems: larger interaction range and asymptotic expansion**
   _Journal of Statistical Mechanics: Theory and Experiment 2020 (10), 103406  ([J.Stat.Mech](https://iopscience.iop.org/article/10.1088/1742-5468/abb8c8/meta),[arXiv](https://arxiv.org/abs/2007.10303))_
   
