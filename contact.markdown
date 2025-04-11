@@ -11,3 +11,11 @@ My office number is B119.
 My email address: firstname.lastname@ens.psl.eu
 
 
+<footer class="custom-footer">
+  <p><span style="font-weight: 310;">  </span></p>
+</footer>
+<style>
+  footer:not(.custom-footer) {
+    display: none;
+  }
+</style>
