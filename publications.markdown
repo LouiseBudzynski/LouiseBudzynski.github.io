@@ -25,14 +25,14 @@ My PhD thesis is available <a href="https://louisebudzynski.github.io/docs/PhDTh
   
 * L Budzynski, A Pagnani.  
   **Small-coupling expansion for multiple sequence alignment**  
-  _Physical Review E 107 (4), 044125  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.044125),[arXiv](https://arxiv.org/abs/2210.03463))_
+  _Physical Review E 107 (4), 044125  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.044125), [arXiv](https://arxiv.org/abs/2210.03463))_
   
 * A Braunstein, L Budzynski, S Crotti, F Ricci-Tersenghi.  
   **Closest-vector problem and the zero-temperature p-spin landscape for lossy compression**
-  _Physical Review E 106 (5), 054101  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054101),[arXiv](https://arxiv.org/abs/2207.00504))_
+  _Physical Review E 106 (5), 054101  ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054101), [arXiv](https://arxiv.org/abs/2207.00504))_
   
 * L Budzynski, G Semerjian.  
-  **Biased measures for random constraint satisfaction problems: larger interaction range and asymptotic expansion**
-  _Journal of Statistical Mechanics: Theory and Experiment 2020 (10), 103406  ([J.Stat.Mech](https://iopscience.iop.org/article/10.1088/1742-5468/abb8c8/meta),[arXiv](https://arxiv.org/abs/2007.10303))_
+  **Biased measures for random constraint satisfaction problems: larger interaction range and asymptotic expansion**  
+  _Journal of Statistical Mechanics: Theory and Experiment 2020 (10), 103406  ([J.Stat.Mech](https://iopscience.iop.org/article/10.1088/1742-5468/abb8c8/meta), [arXiv](https://arxiv.org/abs/2007.10303))_
   
 * 
