@@ -10,7 +10,7 @@ Since September 2024, I am an Associate Professor (Maître de Conférence) at th
   
 Before that, I was a post-doctoral researcher, first at the Polytechnic University of Turin, and then at the University La Sapienza in Rome. I did my PhD at the Physics department of ENS ([LPENS](https://www.lpens.ens.psl.eu/)) under the supervision of Guilhem Semerjian.
   
-You can find more information about me on <a href="https://louisebudzynski.github.io/docs/CV.pdf" target="_blank">my resume.</a> 
+You can find more information about me on <a href="https://louisebudzynski.github.io/docs/CV.pdf" target="_blank">my resume.</a>  
 
 <img src="docs/assets/cropped_photo.png" width="300" height="300" class="center"/>
 
