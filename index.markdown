@@ -5,8 +5,9 @@
 layout: home
 ---
 
-**About me**
 [photo](https://louisebudzynski.github.io/docs/assets/photo.jpg) |
+
+**About me**
 
 Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France, and a member of the research team [ARGO](https://www.di.ens.fr/argo/).
 
