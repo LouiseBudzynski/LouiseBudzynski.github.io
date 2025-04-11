@@ -14,3 +14,11 @@ You can find more information about me on <a href="https://louisebudzynski.githu
 
 <img src="docs/assets/cropped_photo.png" width="300" height="300" class="center"/>
 
+<footer class="custom-footer">
+  <p><span style="font-weight: 310;">Copyright © 2025</span></p>
+</footer>
+<style>
+  footer:not(.custom-footer) {
+    display: none;
+  }
+</style>
