@@ -15,3 +15,12 @@ permalink: /Teaching/
 	
 * Spring 2019: **Special Relativity and Electromagnetism**, _Exercise sessions_  
 	For undergraduate students (L3, Licence FIP) at the Physics department of Ecole Normale Superieure de Paris
+
+<footer class="custom-footer">
+  <p><span style="font-weight: 310;">  </span></p>
+</footer>
+<style>
+  footer:not(.custom-footer) {
+    display: none;
+  }
+</style>
