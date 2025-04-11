@@ -8,9 +8,7 @@ layout: home
 
 <!-- ![photo](https://louisebudzynski.github.io/docs/assets/photo.jpg) -->
 
-Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France.
-
-I am a member of the INRIA team [ARGO](https://www.di.ens.fr/argo/).
+Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France, and a member of the research team [ARGO](https://www.di.ens.fr/argo/).
 
 You can find more information about me on <a href="https://louisebudzynski.github.io/docs/CV.pdf" target="_blank">my resume.</a>
 
