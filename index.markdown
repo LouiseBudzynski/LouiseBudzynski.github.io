@@ -6,7 +6,7 @@ layout: home
 ---
 **About me**  
     
-Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, France, and a member of the research team [ARGO](https://www.di.ens.fr/argo/).
+Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, and a member of the research team [ARGO](https://www.di.ens.fr/argo/).
   
 Before that, I was a post-doctoral researcher, first at the Polytechnic University of Turin, and then at the University La Sapienza in Rome. I did my PhD at the Physics department of ENS ([LPENS](https://www.lpens.ens.psl.eu/)) under the supervision of Guilhem Semerjian.
   
