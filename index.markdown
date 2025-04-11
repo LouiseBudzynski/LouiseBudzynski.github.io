@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="docs/assets/cropped_photo.png"/> 
+<img src="docs/assets/cropped_photo.png" style="display: block; margin: auto;"/> 
 <!-- [photo](https://louisebudzynski.github.io/docs/assets/cropped_photo.png) -->
 
 **About me**
