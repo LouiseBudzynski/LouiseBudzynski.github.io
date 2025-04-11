@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[photo](https://louisebudzynski.github.io/docs/assets/photo.jpg) |
+<!--[photo](https://louisebudzynski.github.io/docs/assets/photo.jpg) |-->
 
 **About me**
 
