@@ -12,7 +12,7 @@ Before that, I was a post-doctoral researcher, first at the Polytechnic Universi
   
 You can find more information about me on <a href="https://louisebudzynski.github.io/docs/CV.pdf" target="_blank">my resume.</a>  
 
-<img.centered src="docs/assets/cropped_photo.png" width="300" height="300" class="center"/>
+<img src="docs/assets/cropped_photo.png" width="300" height="300" class="center"/>
 
 <footer class="custom-footer">
   <p><span style="font-weight: 310;">  </span></p>
