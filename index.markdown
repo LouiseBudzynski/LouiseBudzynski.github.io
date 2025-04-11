@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[photo](https://louisebudzynski.github.io/docs/assets/cropped_photo.jpg) 
+[photo](https://louisebudzynski.github.io/docs/assets/cropped_photo.png) 
 
 **About me**
 
