@@ -5,8 +5,7 @@
 layout: home
 ---
 
-<img src="docs/assets/cropped_photo.png" width="300" height="300"/> 
-<!-- [photo](https://louisebudzynski.github.io/docs/assets/cropped_photo.png) -->
+<img src="docs/assets/cropped_photo.png" width="300" height="300"/> |
 
 **About me**
 
