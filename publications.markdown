@@ -15,6 +15,10 @@ My PhD thesis is available <a href="https://louisebudzynski.github.io/docs/PhDTh
 ### Publications and preprints
 ([google scholar](https://scholar.google.fr/citations?user=QQtOq2EAAAAJ&hl=fr), [arXiv](https://arxiv.org/search/cond-mat?searchtype=author&query=Budzynski,+L))
 
+* Maria Chiara Angelini, Louise Budzynski, Federico Ricci-Tersenghi.  
+  **Interacting Copies of Random Constraint Satisfaction Problems.**  
+  _arXiv preprint [arXiv:2504.15158](https://arxiv.org/abs/2504.15158)_
+
 * A Braunstein, L Budzynski, M Mariani, F Ricci-Tersenghi.  
   **Evidence of Replica Symmetry Breaking under the Nishimori conditions in epidemic inference on graphs**  
   _arXiv preprint [arXiv:2502.13249](https://arxiv.org/abs/2502.13249)_
