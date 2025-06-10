@@ -4,7 +4,6 @@
 
 layout: home
 ---
-**About me**  
     
 Since September 2024, I am an Associate Professor (Maître de Conférence) at the Computer Science department of ENS ([DIENS](https://www.di.ens.fr/)) in Paris, and a member of the research team [ARGO](https://www.di.ens.fr/argo/).
   
