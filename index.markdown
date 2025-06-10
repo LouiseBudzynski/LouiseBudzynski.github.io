@@ -21,3 +21,15 @@ You can find more information about me on <a href="https://louisebudzynski.githu
     display: none;
   }
 </style>
+
+<style>
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  footer:not(.custom-footer) {
+    display: none;
+  }
+</style>
