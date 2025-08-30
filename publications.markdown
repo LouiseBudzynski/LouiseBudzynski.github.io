@@ -21,7 +21,7 @@ My PhD thesis is available <a href="https://louisebudzynski.github.io/docs/PhDTh
 
 * A Braunstein, L Budzynski, M Mariani, F Ricci-Tersenghi.  
   **Evidence of Replica Symmetry Breaking under the Nishimori conditions in epidemic inference on graphs**  
-  _arXiv preprint [arXiv:2502.13249](https://arxiv.org/abs/2502.13249)_
+  _Physical Review E 111 (6), 064308  ([PRE](https://journals.aps.org/pre/abstract/10.1103/tbd5-25vf), [arXiv](https://arxiv.org/abs/2502.13249))_
   
 * A Braunstein, L Budzynski, M Mariani.  
   **Statistical mechanics of inference in epidemic spreading**  
